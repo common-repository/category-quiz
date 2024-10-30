@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CategoryQuiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-13 14:49-0000\n"
+"PO-Revision-Date: 2012-07-13 14:58-0000\n"
+"Last-Translator: Ivan O'Donoghue - Spiralli Business Solutions <info@spiralli.ie>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../SBS_quiz.php:136
+msgid "Bad category number - positive integers only for categories in questions file"
+msgstr "Número de la categoría Bad - números enteros positivos únicamente para las categorías en el archivo de preguntas"
+
+#: ../SBS_quiz.php:139
+msgid "There is a missing category number in the category file"
+msgstr "Hay un número de categoría que falta en el archivo de categoría"
+
+#: ../SBS_quiz.php:142
+msgid "All categories must have an equal number of questions"
+msgstr "Todas las categorías deben tener el mismo número de preguntas"
+
+#: ../SBS_quiz.php:161
+#: ../trunk/SBS_quiz.php:123
+msgid "Category Quiz"
+msgstr "Categoría Test"
+
+#: ../SBS_quiz.php:197
+#, fuzzy
+msgid "Quiz Settings"
+msgstr "Categoría Configuración de la Prueba"
+
+#: ../SBS_quiz.php:203
+msgid "Display Percentage"
+msgstr "mostrar porcentajes"
+
+#: ../SBS_quiz.php:210
+msgid "Display Count"
+msgstr "Visualización del número"
+
+#: ../SBS_quiz.php:218
+#, fuzzy
+msgid "Update Settings"
+msgstr "<p>actualizar la configuración</p>"
+
+#: ../SBS_quiz.php:231
+#: ../SBS_quiz.php:244
+msgid "Yes"
+msgstr "Si"
+
+#: ../SBS_quiz.php:231
+#: ../SBS_quiz.php:244
+msgid "No"
+msgstr "No"
+
+#: ../SBS_quiz.php:260
+#, fuzzy
+msgid "Question"
+msgstr " preguntas"
+
+#: ../trunk/SBS_quiz.php:130
+msgid "Category Quiz Settings"
+msgstr "Categoría Configuración de la Prueba"
+
+#: ../trunk/SBS_quiz.php:134
+msgid "All settings are currently derived from the questions.csv file."
+msgstr "Todos los ajustes se derivan actualmente desde el archivo questions.csv."
+
+#: ../trunk/SBS_quiz.php:139
+msgid " categories "
+msgstr " categorías"
+
+#: ../trunk/SBS_quiz.php:144
+msgid " questions "
+msgstr " preguntas"
+
